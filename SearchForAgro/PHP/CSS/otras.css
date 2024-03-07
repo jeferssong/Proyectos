@@ -1,0 +1,7 @@
+.mike{
+    background-image: url(https://cdn.pixabay.com/photo/2016/05/01/20/45/wheat-field-1365865_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    background-size: 1499px 500px; /* Ancho x Alto */
+}
